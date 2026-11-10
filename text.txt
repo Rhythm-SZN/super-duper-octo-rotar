@@ -1,0 +1,28 @@
+Actual pages to design and develop
+#	Page	Type
+1	Home	Main page
+2	Real Estate	Division page
+3	For Diaspora Investors	Dedicated landing page
+4	Business Consultancy	Division page
+5	Media	Division page
+6	Services for Overseas Businesses	Dedicated landing page
+7	About Ernekka	Company page
+8	Insights	Article listing
+9	Contact	Enquiry page
+10	Privacy & Cookies	Legal page
+11	Terms & Conditions	Legal page
+
+11 proposed URLs
+ Individual Insight articles use a reusable template, not separate custom page designs.
+
+
+ernekka-home.html
+ernekka-real-estate.html
+ernekka-diaspora-investment.html
+ernekka-business-consultancy.html
+ernekka-media.html
+about-ernekka.html
+insights-ernekka.html
+Contact-ernekka.html
+ernekka-privacy-cookies.html
+ernekka-terms-conditions.html
